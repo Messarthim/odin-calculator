@@ -56,3 +56,19 @@ body {
     color: white;
     font-size: 2.5rem;
 }
+
+#add-button {
+    background-color: #B5EAD7;
+}
+
+#substract-button {
+    background-color: #FFB7B2;
+}
+
+#multiply-button {
+    background-color: #E2F0CB;
+}
+
+#divide-button {
+    background-color: #C7CEEA
+}
